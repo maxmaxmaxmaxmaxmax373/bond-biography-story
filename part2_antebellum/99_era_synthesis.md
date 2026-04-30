@@ -16,7 +16,7 @@ The clearest single number that captures the antebellum cycle is the comparison 
 | Loan of 1846 | June 1847 | 6.0% | Par placement, normal Walker-era underwriting |
 | Loan of 1848 | March 1849 | 6.0% | 3% premium placement |
 | Texas Indemnity Stock | September 1851 | 5.0% | Par placement, claims-settlement instrument |
-| Treasury Notes of 1860 | December 1860 | **9.0%** | Discounted in coupon; only $9.95M of $10M placed |
+| Treasury Notes of 1860 | December 1860 | **9.0%** | Discounted in coupon; only \$9.95M of \$10M placed |
 
 The coupon doubled from the Texas Indemnity (5%) to the Treasury Notes of 1860 (9%) in just nine years. But the headline coupon understates what happened, because it does not capture the **secondary-market collapse** of older bonds. The Loan of 1848, still in active trading throughout the late 1850s, fell from \$133.56 (December 1859) to \$88.00 (August 1861). This was a bond at full faith and credit, paying its coupons reliably, with a strong issuer. Yet it lost a third of its market value in twenty months because the institutional architecture supporting that issuer was breaking down.
 

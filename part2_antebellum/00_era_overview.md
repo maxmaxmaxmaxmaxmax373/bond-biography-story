@@ -66,9 +66,9 @@ Read together, the five Antebellum bonds reveal a U-shaped curve of federal cred
 | 1846 | Loan of 1846 | Par placement, normal underwriting |
 | 1848 | Loan of 1848 | 3% premium placement |
 | 1851 | Texas Indemnity Stock | Par placement, used as compromise tool |
-| 1853–1859 | Loan of 1848 (secondary market) | $110–$133, sustained premium |
+| 1853–1859 | Loan of 1848 (secondary market) | \$110–\$133, sustained premium |
 | 1860 | Treasury Notes of 1860 | 9% coupon, near-par discount placement |
-| 1861 | Loan of 1848 (secondary market) | $88, 34% from peak |
+| 1861 | Loan of 1848 (secondary market) | \$88, 34% from peak |
 
 The curve traces an antebellum boom that goes roughly nowhere, then collapses dramatically in its final months. The collapse is not gradual; it is concentrated in a 9-month window from November 1860 to August 1861. This is the kind of nonlinear, regime-change pattern that bond markets sometimes exhibit when underlying political institutions fail. The post-Sumter recovery — driven by the Legal Tender Act, the Five-Twenties of 1862 marketing campaign, the National Banking Act, and ultimately Union victory at Gettysburg — is the subject of [Part III](../part3_civil_war_post/00_era_overview.md).
 
