@@ -30,10 +30,8 @@ jobs:
           python-version: "3.11"
       - name: Install MyST Markdown
         run: npm install -g mystmd
-      - name: Install Python deps for notebook execution
-        run: pip install pandas matplotlib numpy tables jupyter
       - name: Build HTML Assets
-        run: myst build --html --execute
+        run: myst build --html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
