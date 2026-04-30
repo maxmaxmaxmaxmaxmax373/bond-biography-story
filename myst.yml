@@ -1,0 +1,114 @@
+version: 1
+project:
+  title: "The Bond Biographies of the United States, 1789–1907"
+  subtitle: "An Illustrated Reading of Bayley's National Loans (1881) with the Hall–Payne–Sargent Database"
+  authors:
+    - name: Compiled and edited (modern commentary)
+  date: 2026-04-29
+  keywords:
+    - public debt
+    - U.S. Treasury
+    - Bayley 1881
+    - Hall-Payne-Sargent
+    - Hamilton funding
+    - Civil War finance
+    - Funding Act of 1870
+    - 19th-century finance
+    - sovereign credit
+  toc:
+    - file: index.md
+    - title: Narrative Spine
+      children:
+        - file: narrative/00_preface.md
+          title: "Preface"
+        - file: narrative/01_grand_arc.md
+          title: "The Grand Arc, 1789–1907"
+        - file: narrative/02_method_sources.md
+          title: "Method & Sources"
+    - title: "Part I — The Early Republic (1789–1815)"
+      children:
+        - file: part1_early_republic/00_era_overview.md
+          title: "Era Overview"
+        - file: part1_early_republic/01_temporary_loan_1789.ipynb
+          title: "1. Temporary Loan of 1789"
+        - file: part1_early_republic/02_temporary_loan_1790.ipynb
+          title: "2. Temporary Loan of 1790"
+        - file: part1_early_republic/03_six_per_cent_stock_1790.ipynb
+          title: "3. Six Per Cent Stock of 1790"
+        - file: part1_early_republic/04_deferred_six_per_cent_stock_1790.ipynb
+          title: "4. Deferred Six Per Cent Stock of 1790"
+        - file: part1_early_republic/05_three_per_cent_stock_1790.ipynb
+          title: "5. Three Per Cent Stock of 1790"
+        - file: part1_early_republic/06_louisiana_six_per_cent_stock.ipynb
+          title: "6. Louisiana Six Per Cent Stock"
+        - file: part1_early_republic/07_exchanged_six_per_cent_stock_1807.ipynb
+          title: "7. Exchanged Six Per Cent Stock of 1807"
+        - file: part1_early_republic/08_converted_six_per_cent_stock_1807.ipynb
+          title: "8. Converted Six Per Cent Stock of 1807"
+        - file: part1_early_republic/09_six_per_cent_loan_1812.ipynb
+          title: "9. Six Per Cent Loan of 1812"
+        - file: part1_early_republic/10_sixteen_million_loan_1813.ipynb
+          title: "10. Sixteen Million Loan of 1813"
+        - file: part1_early_republic/11_seven_and_one_half_million_loan_1813.ipynb
+          title: "11. Seven and One-Half Million Loan of 1813"
+        - file: part1_early_republic/99_era_synthesis.md
+          title: "Era Synthesis"
+    - title: "Part II — Antebellum (1846–1860)"
+      children:
+        - file: part2_antebellum/00_era_overview.md
+          title: "Era Overview"
+        - file: part2_antebellum/01_loan_1846.ipynb
+          title: "1. Loan of 1846"
+        - file: part2_antebellum/02_mexican_indemnity_stock.ipynb
+          title: "2. Mexican Indemnity Stock"
+        - file: part2_antebellum/03_loan_1848.ipynb
+          title: "3. Loan of 1848"
+        - file: part2_antebellum/04_texas_indemnity_stock.ipynb
+          title: "4. Texas Indemnity Stock"
+        - file: part2_antebellum/05_treasury_notes_1860.ipynb
+          title: "5. Treasury Notes of 1860"
+        - file: part2_antebellum/99_era_synthesis.md
+          title: "Era Synthesis"
+    - title: "Part III — Civil War & Refunding (1861–1907)"
+      children:
+        - file: part3_civil_war_post/00_era_overview.md
+          title: "Era Overview"
+        - file: part3_civil_war_post/01_loan_july_august_1861.ipynb
+          title: "1. Loan of July and August 1861"
+        - file: part3_civil_war_post/02_five_twenties_1862.ipynb
+          title: "2. Five-Twenties of 1862"
+        - file: part3_civil_war_post/03_one_year_notes_1863.ipynb
+          title: "3. One Year Notes of 1863"
+        - file: part3_civil_war_post/04_ten_forties_1864.ipynb
+          title: "4. Ten-Forties of 1864"
+        - file: part3_civil_war_post/05_five_twenties_june_1864.ipynb
+          title: "5. Five-Twenties of June 1864"
+        - file: part3_civil_war_post/06_five_twenties_1865.ipynb
+          title: "6. Five-Twenties of 1865"
+        - file: part3_civil_war_post/07_consols_1865.ipynb
+          title: "7. Consols of 1865"
+        - file: part3_civil_war_post/08_certificates_indebtedness_1870.ipynb
+          title: "8. Certificates of Indebtedness of 1870"
+        - file: part3_civil_war_post/09_four_and_one_half_percent_loan_1891.ipynb
+          title: "9. Four and One-Half Percent Loan of 1891"
+        - file: part3_civil_war_post/10_four_percent_loan_1907.ipynb
+          title: "10. Four Percent Loan of 1907"
+        - file: part3_civil_war_post/99_era_synthesis.md
+          title: "Era Synthesis"
+    - title: Conclusion & Appendix
+      children:
+        - file: narrative/99_conclusion_legacy.md
+          title: "Conclusion: Legacy"
+        - file: appendix/A_bayley_crosswalk.md
+          title: "A. Bayley Crosswalk"
+        - file: appendix/B_data_dictionary.md
+          title: "B. Data Dictionary"
+        - file: appendix/C_full_bibliography.md
+          title: "C. Bibliography"
+        - file: appendix/D_methodology_notes.md
+          title: "D. Methodology Notes"
+
+site:
+  template: book-theme
+  options:
+    base_url: /bond-biography-story
